@@ -23,6 +23,24 @@ invariantes :
 - A primeira e segunda implicação das invariantes vale para o inicio de qualquer interação do algoritmo, isso corresponde ao método de indução matemática.
 ---
 
+## Laços aninhados
 
+- Analisar um laço por vez começando pelo mais interno.
+- bota na pipokinha
+- de 4 da um tesao do krl
+---
 
+## Análise do algoritmo: Insertion sort
 
+Ordena os valores da esquerda pra direita
+
+| Column1 | Column2             | Column3              | Column4                  |
+|--------:|----------------------------|:--------------------:|:------------------|
+|         |                            |                      |                   |
+| 50        |     44               |   13                   |ANTES   |
+|         |                            |                      |                   |
+|    13     |                   44         | 50|DEPOIS|
+
+---
+## Corretude de algoritmos recursivos
+- Prova por indução
